@@ -19,3 +19,18 @@ format:
 
 editor: visual
 
+
+title: "Finley Malloc"
+about:
+  id: hero-heading
+  template: jolla
+  image: final_solid_grey.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+
